@@ -1,0 +1,45 @@
+{
+  "camera_angle_x": 0.6911112070083618,
+  "frames": [
+    {
+      "file_path": "dummy/offset_0",
+      "transform_matrix": [[1, 0, 0, -0.107], [0, 1, 0, -0.008], [0, 0, 1, 2.499], [0, 0, 0, 1]]
+    },
+    {
+      "file_path": "dummy/offset_1",
+      "transform_matrix": [[1, 0, 0, -0.224], [0, 1, 0, 0.003], [0, 0, 1, 2.521], [0, 0, 0, 1]]
+    },
+    {
+      "file_path": "dummy/offset_2",
+      "transform_matrix": [[1, 0, 0, 0.185], [0, 1, 0, 0.021], [0, 0, 1, 2.489], [0, 0, 0, 1]]
+    },
+    {
+      "file_path": "dummy/offset_3",
+      "transform_matrix": [[1, 0, 0, -0.045], [0, 1, 0, 0.072], [0, 0, 1, 2.477], [0, 0, 0, 1]]
+    },
+    {
+      "file_path": "dummy/offset_4",
+      "transform_matrix": [[1, 0, 0, -0.150], [0, 1, 0, -0.043], [0, 0, 1, 2.495], [0, 0, 0, 1]]
+    },
+    {
+      "file_path": "dummy/offset_5",
+      "transform_matrix": [[1, 0, 0, 0.081], [0, 1, 0, -0.054], [0, 0, 1, 2.469], [0, 0, 0, 1]]
+    },
+    {
+      "file_path": "dummy/offset_6",
+      "transform_matrix": [[1, 0, 0, -0.039], [0, 1, 0, 0.084], [0, 0, 1, 2.490], [0, 0, 0, 1]]
+    },
+    {
+      "file_path": "dummy/offset_7",
+      "transform_matrix": [[1, 0, 0, 0.154], [0, 1, 0, -0.065], [0, 0, 1, 2.453], [0, 0, 0, 1]]
+    },
+    {
+      "file_path": "dummy/offset_8",
+      "transform_matrix": [[1, 0, 0, -0.194], [0, 1, 0, 0.014], [0, 0, 1, 2.510], [0, 0, 0, 1]]
+    },
+    {
+      "file_path": "dummy/offset_9",
+      "transform_matrix": [[1, 0, 0, 0.122], [0, 1, 0, -0.023], [0, 0, 1, 2.472], [0, 0, 0, 1]]
+    }
+  ]
+}
